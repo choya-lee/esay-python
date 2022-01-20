@@ -3,7 +3,7 @@
 
 ### 声明
 
-此仓库中教程的讲义和代码来自[黑马程序员Python教程_600集Python从入门到精通教程（懂中文就能学会）](https://www.bilibili.com/video/BV1ex411x7Em?p=270)
+此仓库中教程的讲义和代码来自[黑马程序员Python教程_600集Python从入门到精通教程（懂中文就能学会）](https://www.bilibili.com/video/BV1ex411x7Em?p=1)
 
 ### 初衷
 
