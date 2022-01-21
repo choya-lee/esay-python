@@ -6,4 +6,6 @@ xiaoming = {"name": "小明",
             "height": 1.75,
             "weight": 75.5}
 
+print(xiaoming["name"])
+print(xiaoming.items())
 print(xiaoming)
